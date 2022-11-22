@@ -4,7 +4,7 @@ This work is about a sattelite pitchure taking with constraints.
 To more understand it, the suject in /data.
 Also, you could check my report to understand the code.
 
-## Ho wto run
+## How to run
 This project has been done with IBM optimization CPLEX. Her the link to download it : https://www.ibm.com/analytics/cplex-optimizer
 
 
