@@ -5,7 +5,7 @@ To more understand it, the suject in /data.
 Also, you could check my report to understand the code.
 
 ## How to run
-This project has been done with IBM optimization CPLEX. Her the link to download it : https://www.ibm.com/analytics/cplex-optimizer
+This project has been done with IBM optimization CPLEX. Here the link to download it : https://www.ibm.com/analytics/cplex-optimizer
 
 
 ## Subject
